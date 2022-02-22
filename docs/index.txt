@@ -1,0 +1,3 @@
+UDPOI -> https://github.com/republicaDAO/Proof_of_Identity/blob/main/docs/udpoi.cleaned.pdf
+Minima incentive cash guide -> guia-minima-android.cleaned.pdf
+Manifest v1.1 blog -> RepublicaDAO_esvorrany_1.1_blog.cleaned.pdf
